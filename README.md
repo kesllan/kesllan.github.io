@@ -17,4 +17,4 @@ Atualmente estou estudando as seguintes tecnologias:
 - Xbox;
 - Celular;
 
-![A felcidade de quem tá aprendendo]([https://linkDaimagem.jpg](https://giphy.com/clips/afv-americas-funniest-home-videos-wheres-maxwell-dyvjCqGfsN033jRgJm))
+![A felcidade de quem tá aprendendo](https://media.giphy.com/media/z8XtwKGIRQSBCmU4sW/giphy.gif)
