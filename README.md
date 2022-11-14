@@ -7,3 +7,14 @@ Atualmente estou estudando as seguintes tecnologias:
 - html5
 - javascript
 - php/laravel
+
+## Pessoal
+
+
+### Pai de tecnologias
+
+- Notebook Games;
+- Xbox;
+- Celular;
+
+![A felcidade de quem tá aprendendo]([https://linkDaimagem.jpg](https://giphy.com/clips/afv-americas-funniest-home-videos-wheres-maxwell-dyvjCqGfsN033jRgJm))
